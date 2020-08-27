@@ -1,0 +1,9 @@
+Why did you build this?
+python code project 
+for an calculator 
+which has a GUI 
+for easy interact
+I was seen it for some practice 
+on python programing
+you only should have a python compile on your laptop
+and have fun explore it
